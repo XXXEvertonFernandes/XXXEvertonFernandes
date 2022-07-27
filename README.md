@@ -2,7 +2,7 @@
     <h2>
       💻Full Stack Developer React | NodeJS
        <br>
-      📖Cursando 3° Período De Engenharia De Software.
+      📖Cursando 4° Período De Engenharia De Software.
     </h2>
    <div/>
      <br>
