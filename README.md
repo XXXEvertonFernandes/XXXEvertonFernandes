@@ -2,7 +2,7 @@
     <h2>
       💻 Full Stack Developer
        <br>
-      📖 Software Engineering Student 7/8
+      📖 Software Engineering Student 8/8
     </h2>
    <div/>
      <br>
