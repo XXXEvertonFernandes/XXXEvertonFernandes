@@ -1,8 +1,6 @@
 <div align="center">
     <h2>
-      💻 Full Stack Developer
-       <br>
-      📖 Software Engineering Student 8/8
+       Software Engineer 💻
     </h2>
    <div/>
      <br>
